@@ -6,6 +6,6 @@
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [org.clojure/tools.logging "0.2.6"]
                  [clojure-opennlp "0.2.0"]
-                 [liberator "0.8.0"]]
+                 [compojure "1.1.5"]]
 
   )
